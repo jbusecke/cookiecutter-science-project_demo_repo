@@ -34,7 +34,7 @@ author = "Julius Busecke"
 # built documents.
 # see https://pypi.org/project/setuptools-scm/ for details
 from pkg_resources import get_distribution
-release = get_distribution('cookiecutter_science_project_demo_repo').version
+release = get_distribution('cookiecutter-science-project_demo_repo').version
 # for example take major/minor
 version = '.'.join(release.split('.')[:2])
 
