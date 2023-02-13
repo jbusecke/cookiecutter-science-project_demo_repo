@@ -1,4 +1,5 @@
 import pytest
+
 from cookiecutter_science_project_demo_repo.dummy_module import dummy_foo
 
 
